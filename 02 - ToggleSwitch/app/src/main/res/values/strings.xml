@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toggle Switch</string>
+    <string name="password_remember">Lembrar Senha</string>
+    <string name="text_on">Ligado</string>
+    <string name="text_off">Desligado</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="text_switch">Switch</string>
+    <string name="send">Enviar</string>
+    <string name="result">Resultado</string>
+</resources>
